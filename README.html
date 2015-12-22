@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+</head>
+<body>
+<h1 id="d3.deviation-ellipse">d3.deviation-ellipse</h1>
+
+<p>Calculating and drawing a standard deviation ellipse for two dimensional data using d3.</p>
+
+<figure>
+<img src="https://raw.githubusercontent.com/sebastian-meier/d3.deviation-ellipse/master/thumbnail.png" alt="Deviation Ellipse" />
+<figcaption>Deviation Ellipse</figcaption>
+</figure>
+
+<h2 id="usage">Usage</h2>
+
+<pre><code>var devellipse = new devellipse();
+var errEllipse = devellipse.data([[x1,y1],[x2,y2],...]);
+
+//Radius - X
+errEllipse.rx
+
+//Radius - Y
+errEllipse.ry
+
+//Center - X
+errEllipse.cx
+
+//Center - Y
+errEllipse.cy
+
+//Center - orientation (in degrees)
+errEllipse.orient
+
+</code></pre>
+
+<h2 id="examples">Examples</h2>
+
+<p>A visualization of spatially distributed tags from instagram images:
+http://prjcts.sebastianmeier.eu/deviationellipse/example/instagram.html</p>
+
+<p>Random set of pionts:
+http://prjcts.sebastianmeier.eu/deviationellipse/example/random.html</p>
+
+</body>
+</html>

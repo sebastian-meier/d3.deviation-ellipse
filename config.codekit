@@ -24,98 +24,98 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/documentation\/d3.devellipse.js.html": {
+	"\/docs\/d3.devellipse.js.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/documentation\/d3.devellipse.js.html",
+		"inputAbbreviatedPath": "\/docs\/d3.devellipse.js.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/documentation\/devellipse-devellipse.html": {
+	"\/docs\/devellipse-devellipse.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/documentation\/devellipse-devellipse.html",
+		"inputAbbreviatedPath": "\/docs\/devellipse-devellipse.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/documentation\/devellipse.html": {
+	"\/docs\/devellipse.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/documentation\/devellipse.html",
+		"inputAbbreviatedPath": "\/docs\/devellipse.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/documentation\/index.html": {
+	"\/docs\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/documentation\/index.html",
+		"inputAbbreviatedPath": "\/docs\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/documentation\/scripts\/linenumber.js": {
+	"\/docs\/scripts\/linenumber.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/documentation\/scripts\/linenumber.js",
-		"outputAbbreviatedPath": "\/documentation\/scripts\/min\/linenumber-min.js",
+		"inputAbbreviatedPath": "\/docs\/scripts\/linenumber.js",
+		"outputAbbreviatedPath": "\/docs\/scripts\/min\/linenumber-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/documentation\/scripts\/prettify\/lang-css.js": {
+	"\/docs\/scripts\/prettify\/lang-css.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/documentation\/scripts\/prettify\/lang-css.js",
-		"outputAbbreviatedPath": "\/documentation\/scripts\/prettify\/min\/lang-css-min.js",
+		"inputAbbreviatedPath": "\/docs\/scripts\/prettify\/lang-css.js",
+		"outputAbbreviatedPath": "\/docs\/scripts\/prettify\/min\/lang-css-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/documentation\/scripts\/prettify\/prettify.js": {
+	"\/docs\/scripts\/prettify\/prettify.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/documentation\/scripts\/prettify\/prettify.js",
-		"outputAbbreviatedPath": "\/documentation\/scripts\/prettify\/min\/prettify-min.js",
+		"inputAbbreviatedPath": "\/docs\/scripts\/prettify\/prettify.js",
+		"outputAbbreviatedPath": "\/docs\/scripts\/prettify\/min\/prettify-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/documentation\/styles\/jsdoc-default.css": {
+	"\/docs\/styles\/jsdoc-default.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/documentation\/styles\/jsdoc-default.css",
+		"inputAbbreviatedPath": "\/docs\/styles\/jsdoc-default.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/documentation\/styles\/prettify-jsdoc.css": {
+	"\/docs\/styles\/prettify-jsdoc.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/documentation\/styles\/prettify-jsdoc.css",
+		"inputAbbreviatedPath": "\/docs\/styles\/prettify-jsdoc.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/documentation\/styles\/prettify-tomorrow.css": {
+	"\/docs\/styles\/prettify-tomorrow.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/documentation\/styles\/prettify-tomorrow.css",
+		"inputAbbreviatedPath": "\/docs\/styles\/prettify-tomorrow.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -193,6 +193,15 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/README.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/README.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/README.md": {
 		"criticStyle": 0,
 		"enableFootnotes": 1,
@@ -213,6 +222,17 @@
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
 		"useCompatibilityMode": 0
+		},
+	"\/thumbnail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 268983,
+		"inputAbbreviatedPath": "\/thumbnail.png",
+		"outputAbbreviatedPath": "\/thumbnail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		}
 	},
 "hooks": [
